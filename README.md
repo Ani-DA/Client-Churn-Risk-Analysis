@@ -1,4 +1,8 @@
-# Client-Churn-Risk-Analysis
+# Client Churn Risk Analysis
+
+![client churn risk banner](https://github.com/user-attachments/assets/b2f6c5c5-e84c-4d8c-9406-7e581fa780dc)
+
+
 
 ## 1. Project Overview / Purpose
 The objective of this project is to analyze client churn / retention patterns, operational efficiency, and revenue performance using a simulated fiduciary services dataset which has a multi-jurisdiction operations. The project aims to identify potential churn risks, segment clients by behavior and performance indicators, and provide clear, data-driven insights to support strategic decisions—particularly in compliance, client experience, and growth initiatives.
